@@ -1,0 +1,11 @@
+{
+  "app": "Notes App",
+  "version": "0.6.0",
+  "tag": "v0.6.0",
+  "platform": "macOS",
+  "downloads": {
+    "latest": "downloads/Notes-App-macOS-latest.zip",
+    "versioned": "downloads/Notes-App-macOS-0.6.0.zip",
+    "checksum": "downloads/Notes-App-macOS-0.6.0.zip.sha256"
+  }
+}
